@@ -1,5 +1,5 @@
 title:              monigold.com
-email:              greg@monigold.com
+email:              
 description:        The website of Greg Monigold
 author:             Greg Monigold
 baseurl:            "/"
@@ -7,7 +7,7 @@ url:                "https://gregmonigold.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    GregMonigold
+github_username:    
 facebook_username:  
 linkedin_username:
 
