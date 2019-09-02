@@ -5,7 +5,7 @@ background: '/img/bg-post.jpg'
 ---
 
 {% for post in paginator.posts %}
-
+<p><i>Photo: Palm Springs, California 2018</i></p>
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>
