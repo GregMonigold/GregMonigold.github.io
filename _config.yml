@@ -2,7 +2,7 @@
 title: monigold.com
 timezone: UTC
 collections:
-  drafts:
+  _drafts:
     title: Drafts
     output: true
   posts:
